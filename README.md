@@ -19,6 +19,7 @@ mydb = mysql.connector.connect(
     passwd='YOUR_MYSQL_PASSWORD', 
     database='Push_Corporations'
 )
+'''
 
 ## 🔑 System Users & Credentials
 (Note: More branches can be added by expanding the if/elif conditions in the code).
